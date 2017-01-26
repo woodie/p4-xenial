@@ -1,0 +1,4 @@
+P4PORT=workshop.perforce.com:1666
+P4USER=guest
+P4EDITOR=vim
+P4IGNORE=.p4ignore
