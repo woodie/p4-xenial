@@ -1,5 +1,4 @@
 FROM ubuntu:xenial
-MAINTAINER woodie
 
 COPY .p4config .
 ENV P4CONFIG .p4config
